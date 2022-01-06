@@ -18,6 +18,7 @@ As a **Regional Director** of an international logistics company, you have the r
 <p align="center">
   <img align="center" src="https://cdn-images-1.medium.com/max/800/1*dr9aJ5RcxA_cLB16Ko3rIA.png">
 </p>
+
 #### Objective
 Your role is to find the right budget allocation that maximizes your profits (ROI) and respect the guidelines of the top management.
 <p align="center">
