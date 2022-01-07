@@ -2,14 +2,14 @@
 *Select the projects that maximize the return on investment, follow the management guidelines while respecting budget constraints*
 
 <p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*dGePs289wgyXwTyd4ilqZg.png">
+  <img align="center" src="https://miro.medium.com/max/1280/1*N--GusdlqnmHKdSDkqaEoQ.png">
 </p>
 
 ### Objective
 Automate the decision-making process for the yearly budget allocation of an International Logistics Company.
 
 ### Medium Article
-In this [Medium Article](--), we will use design a simple Linear Programming Model with Python to automate this decision-making process considering the budget constraints,
+In this [Medium Article](https://towardsdatascience.com/automate-budget-planning-using-linear-programming-5254aace697c), we will use design a simple Linear Programming Model with Python to automate this decision-making process considering the budget constraints,
 projects ROI and management guidelines.
 
 
