@@ -8,8 +8,8 @@
 ### Objective
 Automate the decision-making process for the yearly budget allocation of an International Logistics Company.
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/automate-budget-planning-using-linear-programming-5254aace697c), we will use design a simple Linear Programming Model with Python to automate this decision-making process considering the budget constraints,
+### Article
+In this [Article](https://www.samirsaci.com/automate-budget-planning-using-linear-programming/), we will use design a simple Linear Programming Model with Python to automate this decision-making process considering the budget constraints,
 projects ROI and management guidelines.
 
 
