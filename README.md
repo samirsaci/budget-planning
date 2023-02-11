@@ -12,6 +12,11 @@ Automate the decision-making process for the yearly budget allocation of an Inte
 In this [Article](https://www.samirsaci.com/automate-budget-planning-using-linear-programming/), we will use design a simple Linear Programming Model with Python to automate this decision-making process considering the budget constraints,
 projects ROI and management guidelines.
 
+### Youtube Video
+Click on the image below to access a full tutorial video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=U_9KGjzGlkA"><img src="https://i.ytimg.com/an_webp/U_9KGjzGlkA/mqdefault_6s.webp?du=3000&sqp=CLCtnp8G&rs=AOn4CLAcjFEbCJAy7VRDb3CB1S9_cibliw" alt="Explainer Video Link"></a>
+</div>
 
 ### Scenario
 As a **Regional Director** of an international logistics company, you have the responsibility of logistics operations in four countries.
