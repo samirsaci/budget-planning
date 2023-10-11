@@ -1,4 +1,4 @@
-## Automate Budget Planning using Linear Programming 💰
+![image](https://github.com/samirsaci/budget-planning/assets/77899321/7c162a51-c528-4d03-b9fc-411f7f491c92)## Automate Budget Planning using Linear Programming 💰
 *Select the projects that maximize the return on investment, follow the management guidelines while respecting budget constraints*
 
 <p align="center">
@@ -12,10 +12,13 @@ Automate the decision-making process for the yearly budget allocation of an Inte
 In this [Article](https://www.samirsaci.com/automate-budget-planning-using-linear-programming/), we will use design a simple Linear Programming Model with Python to automate this decision-making process considering the budget constraints,
 projects ROI and management guidelines.
 
+### 📘 Your complete guide for Supply Chain Analytics
+60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
+
 ### Youtube Video
 Click on the image below to access a full tutorial video to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=U_9KGjzGlkA"><img src="https://i.ytimg.com/an_webp/U_9KGjzGlkA/mqdefault_6s.webp?du=3000&sqp=CLCtnp8G&rs=AOn4CLAcjFEbCJAy7VRDb3CB1S9_cibliw" alt="Explainer Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=U_9KGjzGlkA"><img src="https://www.samirsaci.com/content/images/2023/10/image.png" alt="Explainer Video Link"></a>
 </div>
 
 ### Scenario
