@@ -1,4 +1,4 @@
-![image](https://github.com/samirsaci/budget-planning/assets/77899321/7c162a51-c528-4d03-b9fc-411f7f491c92)## Automate Budget Planning using Linear Programming 💰
+## Automate Budget Planning using Linear Programming 💰
 *Select the projects that maximize the return on investment, follow the management guidelines while respecting budget constraints*
 
 <p align="center">
