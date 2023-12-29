@@ -9,7 +9,7 @@
 Automate the decision-making process for the yearly budget allocation of an International Logistics Company.
 
 ### Article
-In this [Article](https://www.samirsaci.com/automate-budget-planning-using-linear-programming/), we will use design a simple Linear Programming Model with Python to automate this decision-making process considering the budget constraints,
+In this [Article](https://towardsdatascience.com/automate-budget-planning-using-linear-programming-5254aace697c), we will use design a simple Linear Programming Model with Python to automate this decision-making process considering the budget constraints,
 projects ROI and management guidelines.
 
 ### 📘 Your complete guide for Supply Chain Analytics
@@ -22,7 +22,7 @@ Click on the image below to access a full tutorial video to understand the conce
 </div>
 
 ### Scenario
-As a **Regional Director** of an international logistics company, you have the responsibility of logistics operations in four countries.
+As a **Regional Director** of an international logistics company, you have the responsibility for logistics operations in four countries.
 <p align="center">
   <img align="center" src="https://cdn-images-1.medium.com/max/800/1*dr9aJ5RcxA_cLB16Ko3rIA.png">
 </p>
